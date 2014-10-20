@@ -12,22 +12,9 @@ a następnie dodać ten skrypt
 
 ## Obsługa
 
-### Kontrola zmiennymi
-
-1. AUTO_LOGIN
- * 0 - wyłącza
- * 1 - włącza korzystając z hasła zapisanego w przeglądarce (eksperyment, nie zawsze działa)
- * 2 - włącza korzystając z hasła zapisanego w skrypcie
-2. AUTO_REDIRECT
- * true - włącza przekierowanie na stronę z ocenami
- * false - wyłącza przekierowanie na stronę z ocenami
-3. NR_INDEKSU
- * należy zakomentować (wstawiając // na początku linii), jeśli AUTO_LOGIN = 3
-4. HASLO
- * należy zakomentować (wstawiając // na początku linii), jeśli AUTO_LOGIN = 3
-
 ### Interfejs
 Klawisz 'h' przywraca normalną funkcjonalność
 
 ## Screenshots
-![alt text](http://i.imgur.com/sm0hLbH.png "S1")
+![strona logowania](http://i.imgur.com/sImLWG7.png "strona logowania")
+![oceny](http://i.imgur.com/sm0hLbH.png "oceny")
