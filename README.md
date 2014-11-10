@@ -17,4 +17,4 @@ Klawisz 'h' przywraca normalną funkcjonalność
 
 ## Screenshots
 ![strona logowania](http://i.imgur.com/sImLWG7.png "strona logowania")
-![oceny](http://i.imgur.com/sm0hLbH.png "oceny")
+![oceny](http://i.imgur.com/2yk5wmp.png "oceny")
